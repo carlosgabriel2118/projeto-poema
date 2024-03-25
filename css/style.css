@@ -82,7 +82,7 @@ section#img2 {
     padding: 30px;
     font-family: var(--fontepoema);
     background-image: url(../imagens/imagem2.jpeg);
-    background-position: center center;
+    background-position: top center;
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
@@ -90,7 +90,7 @@ section#img2 {
 
 section#img2 div {
     background-color: rgba(0, 0, 0, 0.459);
-    width: 335px;
+    width: 345px;
 }
 
 section#img2 p {
